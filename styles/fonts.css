@@ -1,0 +1,36 @@
+
+@font-face {
+    font-family: 'Cera Pro DEMO';
+    src: url('./../fonts/CeraProDEMO-ThinItalic.eot');
+    src: url('./../fonts/CeraProDEMO-ThinItalic.eot?#iefix') format('embedded-opentype'),
+    url('./../fonts/CeraProDEMO-ThinItalic.woff2') format('woff2'),
+    url('./../fonts/CeraProDEMO-ThinItalic.woff') format('woff'),
+    url('./../fonts/CeraProDEMO-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cera Pro DEMO';
+    src: url('./../fonts/CeraProDEMO-Thin.eot');
+    src: url('./../fonts/CeraProDEMO-Thin.eot?#iefix') format('embedded-opentype'),
+    url('./../fonts/CeraProDEMO-Thin.woff2') format('woff2'),
+    url('./../fonts/CeraProDEMO-Thin.woff') format('woff'),
+    url('./../fonts/CeraProDEMO-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cera Pro DEMO';
+    src: url('./../fonts/CeraProDEMO-Black.eot');
+    src: url('./../fonts/CeraProDEMO-Black.eot?#iefix') format('embedded-opentype'),
+    url('./../fonts/CeraProDEMO-Black.woff2') format('woff2'),
+    url('./../fonts/CeraProDEMO-Black.woff') format('woff'),
+    url('./../fonts/CeraProDEMO-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
